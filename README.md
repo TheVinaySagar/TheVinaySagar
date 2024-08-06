@@ -35,12 +35,14 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Backend Development",
     "Machine Learning",
     "DevOps",
+    "NLP",
+    "Open Source"
   ]
   
-currently_learning: ["Docker, Kubernetes, Deep learning"]
+currently_learning: ["Docker, Kubernetes, Deep learning, Natural language processing, Complier Design"]
 2024 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Anime", "Comedy"]
 ```

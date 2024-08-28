@@ -40,6 +40,9 @@ fields_of_interests:
     "DevOps",
     "NLP",
     "Open Source"
+    "AWS"
+    "Deep Learning"
+    "CP/DSA"
   ]
   
 currently_learning: ["Docker, Kubernetes, Deep learning, Natural language processing, Complier Design"]

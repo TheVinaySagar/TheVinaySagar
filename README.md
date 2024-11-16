@@ -64,10 +64,7 @@ const vinay = {
 ```
 
 <!-- Spotify Now Playing -->
-<a href="https://spotify-now-playing-kappa.vercel.app/now-playing?open">
-  <img src="https://spotify-now-playing-kappa.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
-
+[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=31h656x2x5vrtbgcdskv3ywfd3ee)](https://github.com/kittinan/spotify-github-profile)
 <!-- GitHub Stats with Animations -->
 <h2 align="center">📊 GitHub Statistics</h2>
 

@@ -64,7 +64,6 @@ const vinay = {
 ```
 
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31h656x2x5vrtbgcdskv3ywfd3ee)
 <!-- GitHub Stats with Animations -->
 <h2 align="center">📊 GitHub Statistics</h2>
 

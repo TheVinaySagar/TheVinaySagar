@@ -50,16 +50,33 @@
 ```javascript
 const vinay = {
     pronouns: "He" | "Him",
-    location: "Nagpur, Maharashtra, India",
+    location: "Nagpur, Maharashtra, India 🌏",
     education: [
-        "Self-Taught Developer and Designer",
-        "Bachelor's in Electronics and Communication"
+        "🎓 Self-Taught Developer and Designer",
+        "🎓 Bachelor's in Electronics and Communication"
     ],
-    currentFocus: "Backend Development and Machine Learning",
-    interests: ["Backend", "ML", "DevOps", "NLP", "Open Source", "AWS", "Deep Learning"],
-    currentlyLearning: ["Docker", "Kubernetes", "Deep Learning", "NLP", "Compiler Design"],
-    2024Goals: ["Create 10+ Projects", "Learn 5-10 New Technologies"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "🎯 Backend Development and Machine Learning",
+    interests: [
+        "⚡ Backend Development", 
+        "🤖 Machine Learning",
+        "🚀 DevOps",
+        "🔤 NLP",
+        "💻 Open Source",
+        "☁️ AWS",
+        "🧠 Deep Learning"
+    ],
+    currentlyLearning: [
+        "🐳 Docker",
+        "☸️ Kubernetes",
+        "🤖 Deep Learning",
+        "📚 NLP",
+        "⚙️ Compiler Design"
+    ],
+    2024Goals: [
+        "🎯 Create 10+ Projects",
+        "📚 Learn 5-10 New Technologies"
+    ],
+    funFact: "There are two ways to write error-free programs; only the third one works 😄"
 };
 ```
 

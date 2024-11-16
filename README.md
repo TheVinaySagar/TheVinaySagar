@@ -63,8 +63,8 @@ const vinay = {
 };
 ```
 
-<!-- Spotify Now Playing -->
-[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=31h656x2x5vrtbgcdskv3ywfd3ee)](https://github.com/kittinan/spotify-github-profile)
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31h656x2x5vrtbgcdskv3ywfd3ee)
 <!-- GitHub Stats with Animations -->
 <h2 align="center">📊 GitHub Statistics</h2>
 

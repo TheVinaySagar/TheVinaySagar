@@ -30,7 +30,7 @@
 <a href="https://x.com/Vinay9520" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/vina_sgr/" target="_blank">
+<a href="https://www.instagram.com/vina_ysgr/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="vinaysagar4445@gmail.com" target="_blank">
@@ -52,15 +52,14 @@ const vinay = {
     pronouns: "He" | "Him",
     location: "Nagpur, Maharashtra, India 🌏",
     education: [
-        "🎓 Self-Taught Developer and Designer",
-        "🎓 Bachelor's in Electronics and Communication"
+        "🎓 Self-Taught Developer",
+        "🎓 Bachelor's in Computer Science and Engineering"
     ],
     currentFocus: "🎯 Backend Development and Machine Learning",
     interests: [
         "⚡ Backend Development", 
         "🤖 Machine Learning",
         "🚀 DevOps",
-        "🔤 NLP",
         "💻 Open Source",
         "☁️ AWS",
         "🧠 Deep Learning"
@@ -69,7 +68,6 @@ const vinay = {
         "🐳 Docker",
         "☸️ Kubernetes",
         "🤖 Deep Learning",
-        "📚 NLP",
         "⚙️ Compiler Design"
     ],
     2024Goals: [

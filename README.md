@@ -1,3 +1,10 @@
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<img align="center" alt="Coding" width="1000" src="https://github.com/hustler0109/hustler0109/blob/main/RESOURCES/Galaxy%20Business%20Digital%20Background.gif">
+
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>

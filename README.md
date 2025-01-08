@@ -159,13 +159,16 @@ const vinay = {
 
 
 <div align = "center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
 </div>
 
 <div align = "center">
+ 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{TheVinaySagar}/count.svg)
+
 </div>
+
 
 <!-- Footer -->
 <p align="center">

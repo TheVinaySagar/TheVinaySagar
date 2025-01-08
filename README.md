@@ -157,6 +157,9 @@ const vinay = {
   <img alt="github-snake" src="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{TheVinaySagar}/count.svg)
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

@@ -50,29 +50,29 @@
 ```javascript
 const vinay = {
     pronouns: "He" | "Him",
-    location: "Nagpur, Maharashtra, India 🌏",
+    location: "Nagpur, Maharashtra, India",
     education: [
-        "🎓 Self-Taught Developer",
-        "🎓 Bachelor's in Computer Science and Engineering"
+        "Self-Taught Developer",
+        "Bachelor's in Computer Science and Engineering"
     ],
-    currentFocus: "🎯 Backend Development and Machine Learning",
+    currentFocus: "Backend Development and Machine Learning",
     interests: [
-        "⚡ Backend Development", 
-        "🤖 Machine Learning",
-        "🚀 DevOps",
-        "💻 Open Source",
-        "☁️ AWS",
-        "🧠 Deep Learning"
+        "Data Structures and Algorithms"
+        "Backend Development", 
+        "Machine Learning",
+        "Open Source",
+        "AWS",
+        "Deep Learning"
     ],
     currentlyLearning: [
-        "🐳 Docker",
-        "☸️ Kubernetes",
-        "🤖 Deep Learning",
-        "⚙️ Compiler Design"
+        "Docker",
+        "Kubernetes",
+        "Deep Learning",
+        "Compiler Design"
     ],
-    2024Goals: [
-        "🎯 Create 10+ Projects",
-        "📚 Learn 5-10 New Technologies"
+    2026Goals: [
+        "Problem Solving"
+        "build Scalable System"
     ],
     funFact: "There are two ways to write error-free programs; only the third one works 😄"
 };

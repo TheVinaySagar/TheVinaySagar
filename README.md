@@ -39,10 +39,10 @@
 </p>
 
 <!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thevinaysagar&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=-1" />
-</p>
+</p> -->
 
 <!-- About Me Section -->
 <h2> 👨🏻‍💻 About Me</h2>
@@ -84,7 +84,7 @@ const vinay = {
 </div>
 
 <!-- GitHub Stats with Animations -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- <h2 align="center">📊 GitHub Statistics</h2> -->
 
 <!-- <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=TheVinaySagar&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" />

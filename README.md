@@ -96,9 +96,9 @@ const vinay = {
 </p> -->
 
 <!-- Language Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVinaySagar&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
-  </p>
+  </p> -->
   
   <!-- Skills Section with Icons -->
   <div align="center"> 

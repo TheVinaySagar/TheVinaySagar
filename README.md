@@ -86,14 +86,14 @@ const vinay = {
 <!-- GitHub Stats with Animations -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=TheVinaySagar&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=TheVinaySagar&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheVinaySagar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <!-- Language Stats -->
 <p align="center">
@@ -148,10 +148,10 @@ const vinay = {
 
 
 <!-- Contribution Graph -->
-<h2>📈 Contribution Graph</h2>
+<!-- <h2>📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheVinaySagar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
+</p> -->
 
 <!-- Snake Animation -->
 <div align = "center">
